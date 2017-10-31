@@ -1,5 +1,5 @@
 <?php
-	$host = "18.221.83.86:3306";
+	$host = "172.31.22.79/";
 	$username = "root";
 	$password = "#Root@321";
 	$db = "vocab";
