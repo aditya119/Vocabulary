@@ -1,7 +1,7 @@
 <?php
 	$host = "13.59.152.240";
 	$username = "root";
-	$password = "#Root@321";
+	$password = "infinitynkr@321";
 	$db = "vocab";
 
 
