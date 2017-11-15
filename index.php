@@ -3,6 +3,8 @@
   {
     require('login.php');
   }
+  else
+  {
 ?>
 <!doctype html>
 <html>
@@ -91,3 +93,6 @@ if ($result->num_rows > 0) {
 </script>
 </body>
 </html>
+<?php
+  }
+?>
